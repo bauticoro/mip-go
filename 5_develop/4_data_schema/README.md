@@ -49,7 +49,7 @@ three foods and two nutrients:
 | Nutrient ID |   Nutrient Name   | Min Intake | Max Intake |
 |:-----------:|:-----------------:|:----------:|:----------:|
 |     n1      |  Calories (kcal)  |   200.0    |   2000.0   |
-|     n2      | Carbohydrates (g) |   250.0    |   150.0    |
+|     n2      | Carbohydrates (g) |   250.0    |   1500.0    |
 
 * ***foods_nutrients***
 
